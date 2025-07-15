@@ -253,12 +253,12 @@
        "Official":[
           {
              "Address": "s1.hks.network",
-             "Port": 10005,
+             "Port": 10001,
              "Tags": ""
           },
       	  {
              "Address": "46.174.52.57",
-             "Port": 10005,
+             "Port": 10001,
              "Tags": ""
           }
        ], 
